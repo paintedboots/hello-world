@@ -1,4 +1,4 @@
-hello-world
+Hello-World
 ===========
 
 Guided sample/test of the basic github setups
